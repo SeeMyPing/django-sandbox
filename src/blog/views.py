@@ -6,4 +6,5 @@ def index(request):
     
     return render(request, 'index.html', context={
         "date": date,
+        "request": request
     })
