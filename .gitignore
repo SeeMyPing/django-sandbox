@@ -14,6 +14,7 @@ staticfiles/
 
 # VSCode
 .vscode/
+*.code-workspace
 
 # Pytest
 .cache/
